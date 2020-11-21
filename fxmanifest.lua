@@ -16,6 +16,22 @@ files {
 	'img/bg-1.jpg',
 	'img/bg-4.jpg',
 	'img/bg-5.jpg',
+	'img/bg-22.png'
+	'img/bg-21.png'
+	'img/bg-20.png'
+	'img/bg-19.png'
+	'img/bg-18.png'
+	'img/bg-17.png'
+	'img/bg-16.png'
+	'img/bg-15.png'
+	'img/bg-14.png'
+	'img/bg-13.png'
+	'img/bg-12.png'
+	'img/bg-11.png'
+	'img/bg-10.png'
+	'img/bg-9.png'
+	'img/bg-6.png'
+	'img/bg-1.png'
 	'img/newpandora.png',
     'img/timeout.png',
 	'css/bootstrap.css',
