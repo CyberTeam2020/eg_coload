@@ -5,7 +5,7 @@ TR
 
 erengedik.com
 
-erenged1k#0666
+erenged1k#3369
 
 ---------------------------------------------
 
@@ -16,4 +16,4 @@ EN
 
 erengedik.com
 
-erenged1k#0666
+erenged1k#3369
